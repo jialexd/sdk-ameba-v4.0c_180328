@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\xxx\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\UART_Adapter\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_ee7672a74b54863342d11bde289cc90cd0fb3c49.jar" />
+    </item>
+    <item
+        jar="E:\UART_Adapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\UART_Adapter\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_98609a811563ab10dab4db97612318bcaad28bba.jar" />
+    </item>
+    <item
+        jar="E:\UART_Adapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\UART_Adapter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_a64228c728c2c40d6a21b3b934399ea76d2eacb7.jar" />
+    </item>
+    <item
+        jar="E:\UART_Adapter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="addf60b47b17aaeedda2501eb0270dc7bad8ac86">
+        <dex dex="E:\UART_Adapter\app\build\intermediates\pre-dexed\debug\instant-run_46fdbeedae432966c71c22dd3a69ed713c4586dc.jar" />
+    </item>
+    <item
+        jar="E:\UART_Adapter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5300eb742545d699cd8e2656d91d0270ed33d45">
+        <dex dex="E:\UART_Adapter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_aa113b9d16456b24beebc3e27ac8444f675c4514.jar" />
+    </item>
+
+</items>

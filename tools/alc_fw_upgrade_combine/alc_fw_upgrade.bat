@@ -1,0 +1,1 @@
+START .\alc_fw_upgrade.exe All_in_one.dat alc_fw_upgrade.bin

@@ -1,0 +1,586 @@
+Applications Graphics Acceleration Info:
+Uptime: 518788395 Realtime: 518788395
+
+** Graphics info for pid 9330 [com.google.process.gapps] **
+
+** Graphics info for pid 9352 [com.google.process.location] **
+
+** Graphics info for pid 3618 [com.samsung.inputmethod] **
+
+** Graphics info for pid 3327 [com.android.phone] **
+
+** Graphics info for pid 9260 [com.google.android.gms.persistent] **
+
+** Graphics info for pid 3695 [com.samsung.android.app.gestureservice] **
+
+** Graphics info for pid 3209 [com.android.systemui] **
+
+Recent DisplayList operations
+      DrawDisplayList
+      DrawDisplayList
+        Save
+        ClipRect
+        DrawDisplayList
+          DrawDisplayList
+            DrawDisplayList
+              DrawBitmap
+            DrawDisplayList
+              DrawBitmap
+          DrawDisplayList
+        DrawDisplayList
+        DrawDisplayList
+        RestoreToCount
+      DrawDisplayList
+    RestoreToCount
+DrawDisplayList
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmap
+DrawRect
+DrawDisplayList
+  DrawRect
+  DrawDisplayList
+    Save
+    ClipRect
+    DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+      DrawDisplayList
+        Save
+        ClipRect
+        DrawDisplayList
+          DrawDisplayList
+            DrawDisplayList
+              DrawBitmap
+            DrawDisplayList
+              DrawBitmap
+          DrawDisplayList
+        DrawDisplayList
+        DrawDisplayList
+        RestoreToCount
+      DrawDisplayList
+    RestoreToCount
+DrawDisplayList
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          1367600 / 50331648
+  LayerCache            1114112 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache         0 /  4194304
+  FontRenderer 0        1572864 /  1572864
+Other:
+  FboCache                    2 /       16
+  PatchCache                 14 /      512
+Total memory usage:
+  4054576 bytes, 3.87 MB
+
+Profile data in ms:
+
+	StatusBar/android.view.ViewRootImpl@431e44f0
+View hierarchy:
+
+  StatusBar/android.view.ViewRootImpl@431e44f0
+  393 views, 121.71 kB of display lists, 8048 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        393
+Total DisplayList:  121.71 kB
+
+
+** Graphics info for pid 3704 [com.android.bluetooth] **
+
+** Graphics info for pid 2951 [system] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 19149 [com.sec.android.daemonapp] **
+
+** Graphics info for pid 5588 [com.sec.android.app.clockpackage] **
+
+** Graphics info for pid 5353 [com.osp.app.signin] **
+
+** Graphics info for pid 7629 [com.sec.spp.push] **
+
+** Graphics info for pid 5749 [com.sec.spp.push:RemoteDlcProcess] **
+
+** Graphics info for pid 4774 [com.sec.android.app.keyguard] **
+
+** Graphics info for pid 5260 [com.sec.everglades] **
+
+** Graphics info for pid 10360 [com.google.android.gms] **
+
+** Graphics info for pid 5163 [com.realtek.uartthrough] **
+
+Recent DisplayList operations
+          RestoreToCount
+      DrawDisplayList
+        DrawBitmapRect
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawDisplayList
+            DrawDisplayList
+              DrawBitmap
+            DrawDisplayList
+              DrawRect
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+          DrawDisplayList
+            DrawDisplayList
+              DrawBitmap
+            DrawDisplayList
+              DrawRect
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+          DrawDisplayList
+            DrawDisplayList
+              DrawBitmap
+            DrawDisplayList
+              DrawRect
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+          RestoreToCount
+    DrawPatch
+DrawRect
+DrawBitmapRect
+DrawBitmap
+DrawText
+DrawPatch
+DrawBitmap
+DrawBitmapRect
+multiDraw
+  DrawBitmap
+DrawRect
+DrawRect
+DrawRect
+multiDraw
+  DrawText
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache         13817284 / 50331648
+  LayerCache                  0 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache         0 /  4194304
+  FontRenderer 0         524288 /   524288
+Other:
+  FboCache                    1 /       16
+  PatchCache                 18 /      512
+Total memory usage:
+  14341572 bytes, 13.68 MB
+
+Profile data in ms:
+
+	com.realtek.uartthrough/com.realtek.uartthrough.MainActivity/android.view.ViewRootImpl@43d10c58
+View hierarchy:
+
+  com.realtek.uartthrough/com.realtek.uartthrough.MainActivity/android.view.ViewRootImpl@43d10c58
+  21 views, 11.75 kB of display lists, 57 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        21
+Total DisplayList:  11.75 kB
+
+
+** Graphics info for pid 4494 [com.android.vending] **
+
+** Graphics info for pid 4536 [com.google.android.apps.plus] **
+
+** Graphics info for pid 5491 [com.samsung.galaxylife] **
+
+** Graphics info for pid 4460 [com.google.android.googlequicksearchbox:search] **
+
+** Graphics info for pid 5463 [com.google.android.gms.wearable] **
+
+** Graphics info for pid 4404 [com.sec.chaton] **
+
+** Graphics info for pid 4322 [com.sec.android.gallery3d] **
+
+** Graphics info for pid 3524 [android.process.acore] **
+
+** Graphics info for pid 4350 [com.sec.android.SimpleWidget] **
+
+** Graphics info for pid 4388 [com.android.contacts] **
+
+** Graphics info for pid 27788 [com.sec.android.app.controlpanel] **
+
+** Graphics info for pid 3730 [com.samsung.android.app.filterinstaller] **
+
+** Graphics info for pid 3761 [com.samsung.android.providers.context] **
+
+** Graphics info for pid 5601 [com.sec.factory] **
+
+** Graphics info for pid 5415 [com.sec.android.app.FileShareServer] **
+
+** Graphics info for pid 4097 [com.android.defcontainer] **
+
+** Graphics info for pid 5571 [com.sec.android.widgetapp.activeapplicationwidget] **
+
+** Graphics info for pid 8839 [com.android.settings] **
+
+Recent DisplayList operations
+          RestoreToCount
+  DrawDisplayList
+    DrawPatch
+    DrawDisplayList
+      DrawPatch
+      DrawDisplayList
+        Translate
+        Save
+        ClipRect
+        Translate
+        SetupShadow
+        DrawText
+        ResetShadow
+        RestoreToCount
+      DrawDisplayList
+        Translate
+        Save
+        ClipRect
+        Translate
+        SetupShadow
+        DrawText
+        ResetShadow
+        RestoreToCount
+DrawBitmapRect
+multiDraw
+  DrawPatch
+DrawPatch
+DrawPatch
+DrawPatch
+DrawPatch
+multiDraw
+  DrawText
+DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+DrawBitmap
+DrawBitmap
+multiDraw
+  DrawBitmap
+DrawBitmap
+multiDraw
+  DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 / 50331648
+  LayerCache                  0 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache         0 /  4194304
+  FontRenderer 0              0 /        0
+Other:
+  FboCache                    0 /       16
+  PatchCache                  0 /      512
+Total memory usage:
+  0 bytes, 0.00 MB
+
+Profile data in ms:
+
+	com.android.settings/com.android.settings.SettingsTabActivity/android.view.ViewRootImpl@4320b660
+	com.android.settings/com.android.settings.SubSettings/android.view.ViewRootImpl@4379dc68
+View hierarchy:
+
+  com.android.settings/com.android.settings.SettingsTabActivity/android.view.ViewRootImpl@4320b660
+  110 views, 54.04 kB of display lists, 57 frames rendered
+
+  com.android.settings/com.android.settings.SubSettings/android.view.ViewRootImpl@4379dc68
+  112 views, 51.40 kB of display lists, 277 frames rendered
+
+
+Total ViewRootImpl: 2
+Total Views:        222
+Total DisplayList:  105.44 kB
+
+
+** Graphics info for pid 4613 [com.sec.knox.containeragent] **
+
+** Graphics info for pid 4985 [com.sec.android.app.samsungapps] **
+
+** Graphics info for pid 4280 [com.sec.android.app.samsungapps.una2] **
+
+** Graphics info for pid 4267 [com.sec.pcw.device] **
+
+** Graphics info for pid 4226 [com.android.musicfx] **
+
+** Graphics info for pid 5542 [com.google.android.talk] **
+
+** Graphics info for pid 5388 [com.samsung.android.app.watchmanager] **
+
+** Graphics info for pid 5337 [com.sec.spp.push:RemoteNotiProcess] **
+
+** Graphics info for pid 5323 [android.process.media] **
+
+** Graphics info for pid 5298 [com.sec.pcw] **
+
+** Graphics info for pid 5445 [com.policydm] **
+
+** Graphics info for pid 5286 [com.sec.smartcard.pinservice] **
+
+** Graphics info for pid 5191 [com.samsung.helphub] **
+
+** Graphics info for pid 5427 [com.google.android.partnersetup] **
+
+** Graphics info for pid 5174 [com.sec.android.service.cm] **
+
+** Graphics info for pid 3416 [com.android.nfc:handover] **
+
+** Graphics info for pid 3458 [org.simalliance.openmobileapi.service:remote] **
+
+** Graphics info for pid 3337 [com.android.nfc] **
+
+** Graphics info for pid 3977 [com.samsung.android.app.episodes] **
+
+** Graphics info for pid 3781 [com.sec.esdk.elm] **
+
+** Graphics info for pid 27617 [com.sec.android.widgetapp.alarmwidget] **
+
+** Graphics info for pid 3665 [com.samsung.android.widgetapp.briefing4x2] **
+
+** Graphics info for pid 27979 [com.tripadvisor.tripadvisor] **
+
+** Graphics info for pid 27964 [com.samsung.android.service.travel] **
+
+** Graphics info for pid 3672 [com.samsung.android.tripwidget] **
+
+** Graphics info for pid 3685 [com.sec.android.widgetapp.ap.hero.accuweather] **
+
+** Graphics info for pid 3356 [com.sec.android.app.launcher] **
+
+Recent DisplayList operations
+            DrawBitmapRect
+            RestoreToCount
+            Save
+            Translate
+            DrawBitmap
+            RestoreToCount
+            Save
+            Translate
+            DrawBitmap
+            RestoreToCount
+            Save
+            Translate
+            DrawBitmap
+            RestoreToCount
+            Save
+            Translate
+            DrawBitmap
+            RestoreToCount
+          DrawDisplayList
+          DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+      DrawDisplayList
+        DrawPatch
+DrawFunctor
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+DrawText
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           684624 / 50331648
+  LayerCache                  0 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache    124928 /  4194304
+  FontRenderer 0         524288 /   524288
+Other:
+  FboCache                    4 /       16
+  PatchCache                  1 /      512
+Total memory usage:
+  1333840 bytes, 1.27 MB
+
+Profile data in ms:
+
+	com.sec.android.app.launcher/com.android.launcher2.Launcher/android.view.ViewRootImpl@4366b020
+View hierarchy:
+
+  com.sec.android.app.launcher/com.android.launcher2.Launcher/android.view.ViewRootImpl@4366b020
+  367 views, 256.58 kB of display lists, 282 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        367
+Total DisplayList:  256.58 kB
+
+
+** Graphics info for pid 4946 [com.samsung.SMT] **
+
+** Graphics info for pid 4930 [com.vlingo.midas] **
+
+** Graphics info for pid 4873 [com.sec.android.sCloudBackupApp] **
+
+** Graphics info for pid 4847 [com.wssyncmldm] **
+
+** Graphics info for pid 4823 [com.fmm.dm] **
+
+** Graphics info for pid 4060 [com.sec.android.app.shealth] **
+
+** Graphics info for pid 29202 [com.samsung.android.MtpApplication] **
+
+** Graphics info for pid 5367 [com.sec.android.service.health.sensor] **
+
+** Graphics info for pid 3495 [com.sec.android.provider.logsprovider] **
+
+** Graphics info for pid 3744 [com.sec.android.sCloudRelayData] **
+
+** Graphics info for pid 5858 [com.kakao.talk] **
+
+** Graphics info for pid 3726 [com.sec.android.pagebuddynotisvc] **
+
+** Graphics info for pid 3789 [com.sec.knox.seandroid] **
+
+** Graphics info for pid 3731 [com.sec.msc.nts.android.proxy] **
+
+** Graphics info for pid 3604 [com.sec.android.app.FlashBarService] **
+
+Recent DisplayList operations
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+DrawDisplayList
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ConcatMatrix
+        DrawBitmap
+        RestoreToCount
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            85680 / 50331648
+  LayerCache             163840 / 33554432
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /  1048576
+  PathCache                   0 /  8388608
+  TextDropShadowCache         0 /  4194304
+  FontRenderer 0              0 /        0
+Other:
+  FboCache                    1 /       16
+  PatchCache                  0 /      512
+Total memory usage:
+  249520 bytes, 0.24 MB
+
+Profile data in ms:
+
+	FlashBarService/CenterBar 0/android.view.ViewRootImpl@42bf5288
+	FlashBarService/AppListWindow 0/android.view.ViewRootImpl@42b40dc8
+	FlashBarService/GuideLine 0/android.view.ViewRootImpl@434a0130
+View hierarchy:
+
+  FlashBarService/CenterBar 0/android.view.ViewRootImpl@42bf5288
+  17 views, 0.00 kB of display lists, 0 frames rendered
+
+  FlashBarService/AppListWindow 0/android.view.ViewRootImpl@42b40dc8
+  177 views, 1.40 kB of display lists, 27 frames rendered
+
+  FlashBarService/GuideLine 0/android.view.ViewRootImpl@434a0130
+  21 views, 0.00 kB of display lists, 0 frames rendered
+
+
+Total ViewRootImpl: 3
+Total Views:        215
+Total DisplayList:  1.40 kB
+
+
+** Graphics info for pid 3302 [com.sec.knox.eventsmanager] **

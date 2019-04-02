@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\menu\\chat.xml"
+    }
+]

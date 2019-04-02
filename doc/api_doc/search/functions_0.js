@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['add_5fmem_5fusage',['add_mem_usage',['../group___r_t_o_s.html#gaa8fba4d853a4b5981aaaa0e37cdae7de',1,'osdep_service.h']]],
+  ['analogin_5fdeinit',['analogin_deinit',['../group__analog__in.html#ga7df91c7590672592f7016467e5bf762f',1,'analogin_api.h']]],
+  ['analogin_5finit',['analogin_init',['../group__analog__in.html#ga5a5b7d8526128b727372ed8cb2c412d4',1,'analogin_api.h']]],
+  ['analogin_5fread',['analogin_read',['../group__analog__in.html#ga05f5b1d4977e2b6b7d92f72f0a22e41b',1,'analogin_api.h']]],
+  ['analogin_5fread_5fu16',['analogin_read_u16',['../group__analog__in.html#gaf7b76173fab52e107de0268009a12caa',1,'analogin_api.h']]],
+  ['analogout_5ffree',['analogout_free',['../group__analog__out.html#ga7b24b593e30c6faf73652906bd23005f',1,'analogout_api.h']]],
+  ['analogout_5finit',['analogout_init',['../group__analog__out.html#ga03af2eab754bf06b4a38b8ad180fb07e',1,'analogout_api.h']]],
+  ['analogout_5fwrite',['analogout_write',['../group__analog__out.html#ga01920ea7cfe3b59980600977e8454f10',1,'analogout_api.h']]],
+  ['analogout_5fwrite_5fu16',['analogout_write_u16',['../group__analog__out.html#ga62b4e5baeb451bf9e110c22231a5921e',1,'analogout_api.h']]],
+  ['atomic_5fadd',['ATOMIC_ADD',['../group___r_t_o_s.html#gae40eb2eab2fe72770b747959a37c9dfa',1,'osdep_service.h']]],
+  ['atomic_5fadd_5freturn',['ATOMIC_ADD_RETURN',['../group___r_t_o_s.html#gaafe4466dbf996db5b4f65b2154184374',1,'osdep_service.h']]],
+  ['atomic_5fdec',['ATOMIC_DEC',['../group___r_t_o_s.html#ga6ed19ec7dd00eb7f86e731973e503d38',1,'osdep_service.h']]],
+  ['atomic_5fdec_5fand_5ftest',['ATOMIC_DEC_AND_TEST',['../group___r_t_o_s.html#ga9fec214a366463f97068abc3d5bfb687',1,'osdep_service.h']]],
+  ['atomic_5fdec_5freturn',['ATOMIC_DEC_RETURN',['../group___r_t_o_s.html#gad9fc2abd337dff5eb39d0dcaf245096c',1,'osdep_service.h']]],
+  ['atomic_5finc',['ATOMIC_INC',['../group___r_t_o_s.html#ga37d5eb980755600e00f7870dddfc9201',1,'osdep_service.h']]],
+  ['atomic_5finc_5freturn',['ATOMIC_INC_RETURN',['../group___r_t_o_s.html#ga8ec0db9ec483df31ae5543c47c9ddaa5',1,'osdep_service.h']]],
+  ['atomic_5fread',['ATOMIC_READ',['../group___r_t_o_s.html#gaea3db066675908db9b865ce38db5abc1',1,'osdep_service.h']]],
+  ['atomic_5fset',['ATOMIC_SET',['../group___r_t_o_s.html#ga773eff3884ab09b0b2adfae502c6fbb3',1,'osdep_service.h']]],
+  ['atomic_5fsub',['ATOMIC_SUB',['../group___r_t_o_s.html#gadc182a9a76b9ab086fb850ef4a3fa9d4',1,'osdep_service.h']]],
+  ['atomic_5fsub_5freturn',['ATOMIC_SUB_RETURN',['../group___r_t_o_s.html#gab2a0f53c84834521a0794d3c317fcdd7',1,'osdep_service.h']]]
+];

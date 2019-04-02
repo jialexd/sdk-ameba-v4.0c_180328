@@ -1,0 +1,804 @@
+CURRENT STATS:
+  * com.google.android.googlequicksearchbox:search / u0a24 / v300407086:
+           TOTAL: 100% (55MB-55MB-56MB/45MB-46MB-46MB over 2)
+         Service: 100% (55MB-55MB-56MB/45MB-46MB-46MB over 2)
+  * com.oppo.activation / u0a81 / v0:
+           TOTAL: 100% (4.7MB-4.7MB-4.7MB/4.0MB-4.0MB-4.0MB over 2)
+         Service: 100% (4.7MB-4.7MB-4.7MB/4.0MB-4.0MB-4.0MB over 2)
+  * android.process.TrafficMonitor / 1000 / v0:
+           TOTAL: 100% (10MB-10MB-10MB/8.3MB-8.5MB-8.6MB over 3)
+          Imp Fg: 100% (10MB-10MB-10MB/8.3MB-8.5MB-8.6MB over 3)
+  * com.google.android.gms.persistent / u0a10 / v7571440:
+           TOTAL: 100% (27MB-27MB-27MB/22MB-22MB-22MB over 3)
+          Imp Fg: 100% (27MB-27MB-27MB/22MB-22MB-22MB over 3)
+  * com.oppo.recents / 1000 / v1:
+           TOTAL: 100% (39MB-57MB-66MB/36MB-54MB-63MB over 3)
+          Imp Fg: 100% (39MB-57MB-66MB/36MB-54MB-63MB over 3)
+  * android.process.safer / 1000 / v1:
+           TOTAL: 100% (10MB-10MB-10MB/9.6MB-9.6MB-9.6MB over 3)
+          Imp Fg: 100% (10MB-10MB-10MB/9.6MB-9.6MB-9.6MB over 3)
+  * com.oppo.exserviceui / 1000 / v1:
+           TOTAL: 100% (37MB-37MB-37MB/36MB-36MB-36MB over 3)
+          Imp Fg: 100% (37MB-37MB-37MB/36MB-36MB-36MB over 3)
+  * com.nuance.swype.oppo / u0a86 / v1081300:
+           TOTAL: 100% (46MB-46MB-46MB/42MB-42MB-42MB over 3)
+          Imp Bg: 100% (46MB-46MB-46MB/42MB-42MB-42MB over 3)
+  * android.process.acore / u0a4 / v0:
+           TOTAL: 100% (11MB-11MB-11MB/9.1MB-9.1MB-9.1MB over 3)
+          Imp Fg: 100% (11MB-11MB-11MB/9.1MB-9.1MB-9.1MB over 3)
+  * com.nearme.sync / u0a66 / v10:
+           TOTAL: 100% (5.6MB-5.6MB-5.6MB/4.8MB-4.9MB-4.9MB over 3)
+         Service: 100% (5.6MB-5.6MB-5.6MB/4.8MB-4.9MB-4.9MB over 3)
+  * com.android.dialer / u0a6 / v0:
+           TOTAL: 100% (22MB-22MB-22MB/16MB-16MB-16MB over 3)
+          Imp Fg: 100% (22MB-22MB-22MB/16MB-16MB-16MB over 3)
+  * com.android.phone / 1001 / v22:
+           TOTAL: 100% (23MB-26MB-28MB/21MB-23MB-26MB over 3)
+      Persistent: 100% (23MB-26MB-28MB/21MB-23MB-26MB over 3)
+  * com.quicinc.cne.CNEService / 1000 / v22:
+           TOTAL: 100% (5.7MB-5.8MB-5.8MB/5.0MB-5.0MB-5.1MB over 3)
+      Persistent: 100% (5.7MB-5.8MB-5.8MB/5.0MB-5.0MB-5.1MB over 3)
+  * com.qualcomm.location.XT / 1000 / v1:
+           TOTAL: 100% (3.1MB-3.1MB-3.1MB/2.4MB-2.4MB-2.4MB over 2)
+         Service: 100% (3.1MB-3.1MB-3.1MB/2.4MB-2.4MB-2.4MB over 2)
+  * com.oppo.notification.center / 1000 / v1:
+           TOTAL: 100% (3.0MB-3.0MB-3.0MB/2.4MB-2.4MB-2.4MB over 3)
+          Imp Fg: 100% (3.0MB-3.0MB-3.0MB/2.4MB-2.4MB-2.4MB over 3)
+  * com.android.smspush / u0a105 / v22:
+           TOTAL: 100% (2.6MB-2.6MB-2.6MB/2.0MB-2.0MB-2.0MB over 3)
+          Imp Fg: 100% (2.6MB-2.6MB-2.6MB/2.0MB-2.0MB-2.0MB over 3)
+  * android.process.safer.ui / 1000 / v1:
+           TOTAL: 100% (13MB-13MB-14MB/11MB-11MB-11MB over 3)
+         Service: 100% (13MB-13MB-14MB/11MB-11MB-11MB over 3)
+  * com.google.android.googlequicksearchbox:interactor / u0a24 / v300407086:
+           TOTAL: 100% (4.7MB-4.7MB-4.7MB/2.8MB-2.8MB-2.8MB over 3)
+          Imp Fg: 100% (4.7MB-4.7MB-4.7MB/2.8MB-2.8MB-2.8MB over 3)
+  * com.coloros.appmanager / 1000 / v1:
+           TOTAL: 100% (5.9MB-6.0MB-6.0MB/5.3MB-5.3MB-5.3MB over 3)
+      Persistent: 100% (5.9MB-6.0MB-6.0MB/5.3MB-5.3MB-5.3MB over 3)
+  * com.oppo.alarmclock / u0a38 / v0:
+           TOTAL: 100% (4.6MB-4.6MB-4.6MB/3.3MB-3.3MB-3.3MB over 2)
+         Service: 100% (4.6MB-4.6MB-4.6MB/3.3MB-3.3MB-3.3MB over 2)
+  * com.google.process.gapps / u0a10 / v22:
+           TOTAL: 100% (22MB-22MB-22MB/16MB-17MB-17MB over 3)
+          Imp Fg: 100% (22MB-22MB-22MB/16MB-17MB-17MB over 3)
+  * com.oppo.usbselection / 1000 / v2:
+           TOTAL: 100% (4.4MB-4.4MB-4.4MB/3.6MB-3.7MB-3.7MB over 2)
+         Service: 100% (4.4MB-4.4MB-4.4MB/3.6MB-3.7MB-3.7MB over 2)
+  * android.process.media / u0a7 / v703:
+           TOTAL: 100% (9.7MB-9.8MB-9.8MB/7.1MB-7.1MB-7.1MB over 2)
+         Service: 100% (9.7MB-9.8MB-9.8MB/7.1MB-7.1MB-7.1MB over 2)
+  * com.coloros.oppomorningsystem / 1000 / v1:
+           TOTAL: 100% (3.1MB-3.1MB-3.1MB/2.3MB-2.3MB-2.3MB over 2)
+         Service: 100% (3.1MB-3.1MB-3.1MB/2.3MB-2.3MB-2.3MB over 2)
+  * com.android.settings / 1000 / v102:
+           TOTAL: 100% (63MB-63MB-63MB/56MB-56MB-56MB over 3)
+             Top: 0.40%
+         Service: 100% (63MB-63MB-63MB/56MB-56MB-56MB over 3)
+  * com.oppo.gestureservice / u0a78 / v1:
+           TOTAL: 100% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 3)
+      Persistent: 100% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 3)
+  * com.android.keyguard / u0a14 / v4:
+           TOTAL: 100% (7.4MB-7.7MB-7.9MB/6.3MB-6.6MB-6.8MB over 3)
+      Persistent: 100% (7.4MB-7.7MB-7.9MB/6.3MB-6.6MB-6.8MB over 3)
+  * system / 1000 / v22:
+           TOTAL: 100% (95MB-99MB-104MB/87MB-92MB-96MB over 3)
+      Persistent: 100% (95MB-99MB-104MB/87MB-92MB-96MB over 3)
+  * com.oppo.service.account / u0a102 / v110:
+           TOTAL: 100% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 3)
+      Persistent: 100% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 3)
+  * com.qualcomm.qcrilmsgtunnel / 1001 / v22:
+           TOTAL: 100% (3.0MB-3.0MB-3.1MB/2.4MB-2.4MB-2.4MB over 3)
+          Imp Fg: 100% (3.0MB-3.0MB-3.1MB/2.4MB-2.4MB-2.4MB over 3)
+  * com.android.systemui / 1000 / v0:
+           TOTAL: 100% (46MB-47MB-47MB/39MB-40MB-40MB over 3)
+      Persistent: 100% (46MB-47MB-47MB/39MB-40MB-40MB over 3)
+  * com.oppo.music / u0a18 / v3:
+           TOTAL: 100% (11MB-11MB-11MB/8.2MB-8.3MB-8.4MB over 2)
+         Service: 100% (11MB-11MB-11MB/8.2MB-8.3MB-8.4MB over 2)
+  * com.realtek.uartthrough / u0a118 / v1:
+           TOTAL: 100% (44MB-59MB-64MB/36MB-51MB-56MB over 14)
+             Top: 100% (44MB-59MB-64MB/36MB-51MB-56MB over 14)
+      (Last Act): 0.27%
+  * com.android.dlna.service / u0a44 / v1:
+           TOTAL: 100% (7.5MB-11MB-12MB/6.3MB-9.5MB-11MB over 3)
+         Service: 100% (7.5MB-11MB-12MB/6.3MB-9.5MB-11MB over 3)
+        (Cached): 0.41%
+  * com.nearme.themespacelib / 1000 / v26:
+           TOTAL: 0.38%
+         Service: 0.03%
+      Service Rs: 0.35%
+  * com.google.android.gms / u0a10 / v7571440:
+           TOTAL: 0.36%
+          Imp Fg: 0.33%
+         Service: 0.02%
+        Receiver: 0.01%
+        (Cached): 100% (28MB-28MB-28MB/23MB-23MB-23MB over 2)
+  * com.google.android.gms.wearable / u0a10 / v7571440:
+           TOTAL: 0.34%
+          Imp Fg: 0.34%
+         Service: 0.01%
+        (Cached): 99% (5.1MB-5.1MB-5.1MB/3.1MB-3.1MB-3.1MB over 2)
+  * com.android.email / u0a8 / v500549:
+           TOTAL: 0.23%
+         Service: 0.20%
+        Receiver: 0.02%
+        (Cached): 26% (12MB-12MB-12MB/11MB-11MB-11MB over 2)
+  * com.google.android.music:main / u0a65 / v1854:
+           TOTAL: 0.05%
+         Service: 0.03%
+        Receiver: 0.02%
+        (Cached): 26% (15MB-15MB-15MB/13MB-13MB-13MB over 2)
+  * com.google.android.talk / u0a55 / v22401362:
+           TOTAL: 0.04%
+         Service: 0.01%
+        Receiver: 0.03%
+        (Cached): 26% (17MB-17MB-17MB/15MB-15MB-15MB over 2)
+  * com.oppo.ota / u0a70 / v835:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 74%
+  * com.nearme.themespace / u0a59 / v252:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 26% (4.5MB-4.5MB-4.5MB/3.2MB-3.2MB-3.2MB over 2)
+  * com.oppo.weather / u0a85 / v1643:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+          (Home): 100% (5.0MB-5.0MB-5.0MB/4.0MB-4.0MB-4.0MB over 1)
+  * com.google.android.apps.photos / u0a94 / v30568:
+           TOTAL: 0.02%
+        Receiver: 0.01%
+        (Cached): 26% (9.8MB-9.8MB-9.8MB/8.4MB-8.4MB-8.4MB over 2)
+  * com.oppo.launcher / u0a59 / v1:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+          (Home): 100% (55MB-55MB-55MB/48MB-48MB-48MB over 1)
+  * com.google.android.keep / u0a60 / v3120400:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Receiver: 0.01%
+        (Cached): 26% (8.1MB-8.1MB-8.1MB/7.2MB-7.2MB-7.2MB over 2)
+  * com.oppo.datadialog / u0a74 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 26% (2.5MB-2.5MB-2.5MB/2.0MB-2.0MB-2.0MB over 2)
+  * com.android.chrome / u0a37 / v52357093:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 26% (6.1MB-6.1MB-6.1MB/5.4MB-5.4MB-5.4MB over 2)
+  * com.google.android.apps.magazines / u0a68 / v2015040712:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (21MB-21MB-21MB/15MB-15MB-15MB over 2)
+  * android.process.blacklist / u0a30 / v0:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 26% (5.8MB-5.8MB-5.8MB/4.5MB-4.5MB-4.5MB over 2)
+  * com.google.android.apps.plus / u0a96 / v413986641:
+        (Cached): 100% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+  * com.oppo.wifidirect / u0a108 / v22:
+        (Cached): 26% (3.1MB-3.1MB-3.1MB/2.4MB-2.4MB-2.4MB over 2)
+  * com.android.sales / u0a101 / v6:
+        (Cached): 26% (2.4MB-2.4MB-2.4MB/1.9MB-1.9MB-1.9MB over 2)
+  * com.android.defcontainer / u0a5 / v1:
+        (Cached): 74%
+  * com.google.android.apps.cloudprint / u0a39 / v98:
+        (Cached): 75%
+  * com.android.vending / u0a19 / v80351200:
+        (Cached): 100% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+  * com.oppo.purebackground / 1000 / v1:
+        (Cached): 74%
+  * com.oppo.vistormode / 1000 / v1:
+        (Cached): 74%
+  * android.process.contacts / u0a4 / v0:
+        (Cached): 74%
+  * com.oppo.filemanager / u0a47 / v0:
+        (Cached): 100% (23MB-23MB-23MB/19MB-19MB-19MB over 2)
+  * com.android.keychain / 1000 / v0:
+        (Cached): 74%
+  * com.google.android.apps.docs / u0a46 / v51831730:
+        (Cached): 74%
+  * com.google.android.partnersetup / u0a13 / v22:
+        (Cached): 74%
+
+Run time Stats:
+  SOn /Norm: +24m59s614ms (running)
+      TOTAL: +24m59s614ms
+
+Memory usage:
+  Kernel : 239MB (8 samples)
+  Native : 128MB (8 samples)
+  Top    : 59MB (17 samples)
+  ImpFg  : 114KB (4 samples)
+  Service: 73MB (34 samples)
+  Receivr: 31KB (54 samples)
+  Home   : 60MB (2 samples)
+  LastAct: 162KB (14 samples)
+  CchEmty: 88MB (30 samples)
+  Cached : 1.2GB (8 samples)
+  Free   : 136MB (8 samples)
+  TOTAL  : 2.0GB
+
+          Start time: 2015-11-19 20:50:00
+  Total elapsed time: +24m59s664ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+  * system / 1000 / v22:
+           TOTAL: 100% (68MB-108MB-131MB/60MB-100MB-123MB over 99)
+      Persistent: 100% (68MB-108MB-131MB/60MB-100MB-123MB over 99)
+  * com.google.android.googlequicksearchbox:interactor / u0a24 / v300407086:
+           TOTAL: 100% (4.3MB-5.5MB-7.2MB/2.7MB-3.4MB-4.5MB over 99)
+          Imp Fg: 100% (4.3MB-5.5MB-7.2MB/2.7MB-3.4MB-4.5MB over 99)
+  * com.nuance.swype.oppo / u0a86 / v1081300:
+           TOTAL: 100% (28MB-59MB-67MB/25MB-52MB-58MB over 99)
+          Imp Fg: 0.07%
+          Imp Bg: 100% (28MB-59MB-67MB/25MB-52MB-58MB over 99)
+  * com.android.phone / 1001 / v22:
+           TOTAL: 100% (20MB-25MB-30MB/18MB-21MB-27MB over 99)
+      Persistent: 100% (20MB-25MB-30MB/18MB-21MB-27MB over 99)
+  * com.oppo.notification.center / 1000 / v1:
+           TOTAL: 100% (2.8MB-3.2MB-3.4MB/2.1MB-2.2MB-2.4MB over 96)
+          Imp Fg: 100% (2.8MB-3.2MB-3.4MB/2.1MB-2.2MB-2.4MB over 96)
+  * com.oppo.exserviceui / 1000 / v1:
+           TOTAL: 100% (21MB-26MB-37MB/19MB-24MB-36MB over 96)
+          Imp Fg: 100% (21MB-26MB-37MB/19MB-24MB-36MB over 96)
+  * android.process.safer / 1000 / v1:
+           TOTAL: 100% (3.4MB-5.0MB-10MB/2.6MB-3.9MB-9.6MB over 96)
+          Imp Fg: 100% (3.4MB-5.0MB-10MB/2.6MB-3.9MB-9.6MB over 96)
+  * com.google.android.gms.persistent / u0a10 / v7571440:
+           TOTAL: 100% (9.8MB-18MB-30MB/6.0MB-13MB-24MB over 96)
+          Imp Fg: 45% (20MB-27MB-30MB/16MB-21MB-24MB over 45)
+          Imp Bg: 55% (9.8MB-10MB-18MB/6.0MB-6.3MB-14MB over 51)
+  * com.android.dialer / u0a6 / v0:
+           TOTAL: 100% (3.9MB-8.9MB-23MB/2.7MB-6.0MB-16MB over 94)
+          Imp Fg: 100% (3.9MB-8.9MB-23MB/2.7MB-6.0MB-16MB over 94)
+  * com.android.systemui / 1000 / v0:
+           TOTAL: 100% (35MB-46MB-56MB/29MB-39MB-51MB over 98)
+      Persistent: 100% (35MB-46MB-56MB/29MB-39MB-51MB over 98)
+  * android.process.TrafficMonitor / 1000 / v0:
+           TOTAL: 100% (8.1MB-10MB-13MB/5.5MB-7.8MB-11MB over 97)
+          Imp Fg: 100% (8.1MB-10MB-13MB/5.5MB-7.8MB-11MB over 97)
+  * com.oppo.service.account / u0a102 / v110:
+           TOTAL: 100% (3.0MB-3.2MB-3.3MB/2.2MB-2.3MB-2.5MB over 98)
+      Persistent: 100% (3.0MB-3.2MB-3.3MB/2.2MB-2.3MB-2.5MB over 98)
+  * com.oppo.recents / 1000 / v1:
+           TOTAL: 100% (6.1MB-18MB-66MB/3.8MB-15MB-63MB over 97)
+          Imp Fg: 100% (6.1MB-18MB-66MB/3.8MB-15MB-63MB over 97)
+  * com.quicinc.cne.CNEService / 1000 / v22:
+           TOTAL: 100% (3.8MB-9.0MB-13MB/2.7MB-7.9MB-12MB over 98)
+      Persistent: 100% (3.8MB-9.0MB-13MB/2.7MB-7.9MB-12MB over 98)
+  * com.oppo.gestureservice / u0a78 / v1:
+           TOTAL: 100% (3.1MB-3.3MB-3.5MB/2.4MB-2.4MB-2.5MB over 98)
+      Persistent: 100% (3.1MB-3.3MB-3.5MB/2.4MB-2.4MB-2.5MB over 98)
+  * com.coloros.appmanager / 1000 / v1:
+           TOTAL: 100% (3.0MB-4.2MB-6.0MB/2.1MB-3.2MB-5.3MB over 98)
+      Persistent: 100% (3.0MB-4.2MB-6.0MB/2.1MB-3.2MB-5.3MB over 98)
+  * com.google.process.gapps / u0a10 / v22:
+           TOTAL: 100% (16MB-21MB-27MB/11MB-15MB-20MB over 96)
+          Imp Fg: 45% (18MB-24MB-27MB/14MB-18MB-20MB over 45)
+          Imp Bg: 55% (16MB-19MB-22MB/11MB-14MB-17MB over 51)
+        (Cached): 0.01%
+  * com.coloros.oppomorningsystem / 1000 / v1:
+           TOTAL: 94% (2.8MB-3.4MB-6.3MB/1.8MB-2.2MB-3.6MB over 72)
+         Service: 94% (2.8MB-3.4MB-6.3MB/1.8MB-2.2MB-3.6MB over 72)
+      Service Rs: 0.01%
+  * com.android.keyguard / u0a14 / v4:
+           TOTAL: 83% (5.8MB-48MB-68MB/4.3MB-40MB-58MB over 84)
+      Persistent: 83% (5.8MB-48MB-68MB/4.3MB-40MB-58MB over 84)
+  * com.oppo.launcher / u0a59 / v1:
+           TOTAL: 79% (52MB-68MB-96MB/46MB-59MB-84MB over 134)
+             Top: 13% (65MB-76MB-96MB/56MB-67MB-84MB over 76)
+          Imp Fg: 66% (52MB-57MB-60MB/46MB-50MB-53MB over 58)
+          (Home): 21% (43MB-56MB-61MB/36MB-49MB-53MB over 30)
+  * com.oppo.weather / u0a85 / v1643:
+           TOTAL: 79% (4.7MB-5.5MB-6.1MB/3.6MB-4.0MB-4.7MB over 130)
+             Top: 13% (4.9MB-5.5MB-5.9MB/3.8MB-3.9MB-4.7MB over 75)
+          Imp Fg: 66% (4.7MB-5.6MB-6.1MB/3.6MB-4.1MB-4.4MB over 55)
+          (Home): 21% (4.9MB-5.1MB-5.6MB/3.7MB-3.9MB-4.3MB over 29)
+  * com.oppo.alarmclock / u0a38 / v0:
+           TOTAL: 64% (4.5MB-4.9MB-5.3MB/3.0MB-3.1MB-3.3MB over 51)
+         Service: 64% (4.5MB-4.9MB-5.3MB/3.0MB-3.1MB-3.3MB over 51)
+        (Cached): 0.77% (4.3MB-4.3MB-4.3MB/3.0MB-3.0MB-3.0MB over 1)
+  * com.rtk.simpleconfig_wizard / u0a115 / v1:
+           TOTAL: 62% (38MB-44MB-57MB/32MB-37MB-50MB over 325)
+             Top: 62% (38MB-44MB-57MB/32MB-37MB-50MB over 325)
+      (Last Act): 10% (23MB-25MB-27MB/19MB-20MB-22MB over 10)
+        (Cached): 10% (24MB-25MB-27MB/19MB-20MB-21MB over 7)
+  * android.process.safer.ui / 1000 / v1:
+           TOTAL: 53% (7.8MB-12MB-17MB/5.8MB-9.8MB-14MB over 38)
+         Service: 53% (7.8MB-12MB-17MB/5.8MB-9.8MB-14MB over 38)
+  * com.android.settings / 1000 / v102:
+           TOTAL: 45% (4.4MB-57MB-112MB/3.0MB-50MB-104MB over 55)
+             Top: 2.1% (56MB-84MB-112MB/50MB-76MB-104MB over 15)
+         Service: 43% (4.4MB-46MB-68MB/3.0MB-40MB-59MB over 40)
+      Service Rs: 0.01%
+      (Last Act): 0.02%
+        (Cached): 22% (5.1MB-8.5MB-52MB/3.1MB-6.0MB-45MB over 17)
+  * com.qualcomm.location.XT / 1000 / v1:
+           TOTAL: 45% (3.1MB-3.3MB-3.4MB/2.3MB-2.4MB-2.4MB over 36)
+         Service: 45% (3.1MB-3.3MB-3.4MB/2.3MB-2.4MB-2.4MB over 36)
+  * com.android.smspush / u0a105 / v22:
+           TOTAL: 45% (2.5MB-2.7MB-2.8MB/1.9MB-2.0MB-2.0MB over 45)
+          Imp Fg: 45% (2.5MB-2.7MB-2.8MB/1.9MB-2.0MB-2.0MB over 45)
+  * com.qualcomm.qcrilmsgtunnel / 1001 / v22:
+           TOTAL: 45% (3.0MB-3.2MB-3.3MB/2.3MB-2.4MB-2.4MB over 45)
+          Imp Fg: 45% (3.0MB-3.2MB-3.3MB/2.3MB-2.4MB-2.4MB over 45)
+  * com.oppo.activation / u0a81 / v0:
+           TOTAL: 45% (3.1MB-4.8MB-6.3MB/2.4MB-3.9MB-5.4MB over 36)
+         Service: 45% (3.1MB-4.8MB-6.3MB/2.4MB-3.9MB-5.4MB over 36)
+        (Cached): 3.2% (3.0MB-3.1MB-3.1MB/2.1MB-2.2MB-2.2MB over 2)
+  * com.nearme.sync / u0a66 / v10:
+           TOTAL: 23% (5.4MB-5.6MB-5.8MB/4.7MB-4.8MB-4.9MB over 21)
+         Service: 23% (5.4MB-5.6MB-5.8MB/4.7MB-4.8MB-4.9MB over 21)
+  * com.realtek.uartthrough / u0a118 / v1:
+           TOTAL: 22% (42MB-60MB-92MB/34MB-51MB-82MB over 112)
+             Top: 22% (42MB-60MB-92MB/34MB-51MB-82MB over 112)
+      (Last Act): 21% (28MB-37MB-42MB/23MB-32MB-37MB over 12)
+        (Cached): 4.0% (29MB-33MB-40MB/23MB-27MB-34MB over 3)
+  * android.process.media / u0a7 / v703:
+           TOTAL: 22% (9.1MB-9.7MB-11MB/6.6MB-7.0MB-8.7MB over 32)
+          Imp Fg: 0.01%
+         Service: 22% (9.1MB-9.7MB-11MB/6.6MB-7.0MB-8.7MB over 32)
+        (Cached): 41% (6.0MB-7.2MB-9.6MB/4.1MB-5.0MB-6.9MB over 30)
+  * com.oppo.usbselection / 1000 / v2:
+           TOTAL: 22% (2.9MB-4.0MB-4.4MB/2.0MB-3.1MB-3.7MB over 21)
+         Service: 22% (2.9MB-4.0MB-4.4MB/2.0MB-3.1MB-3.7MB over 21)
+        (Cached): 18% (2.9MB-3.0MB-3.0MB/2.1MB-2.1MB-2.1MB over 9)
+  * android.process.acore / u0a4 / v0:
+           TOTAL: 21% (11MB-11MB-11MB/9.0MB-9.0MB-9.1MB over 23)
+          Imp Fg: 21% (11MB-11MB-11MB/9.0MB-9.0MB-9.1MB over 23)
+        (Cached): 79% (9.7MB-10MB-12MB/8.0MB-8.0MB-8.1MB over 57)
+  * com.oppo.music / u0a18 / v3:
+           TOTAL: 21% (11MB-11MB-13MB/8.1MB-8.5MB-9.6MB over 30)
+          Imp Fg: 10% (11MB-12MB-13MB/8.2MB-9.0MB-9.6MB over 12)
+         Service: 11% (11MB-11MB-11MB/8.1MB-8.2MB-8.4MB over 18)
+  * com.oppo.filemanager / u0a47 / v0:
+           TOTAL: 19% (28MB-34MB-49MB/24MB-29MB-44MB over 16)
+             Top: 0.62% (49MB-49MB-49MB/44MB-44MB-44MB over 4)
+         Service: 18% (28MB-28MB-28MB/24MB-24MB-24MB over 12)
+      (Last Act): 5.9% (21MB-25MB-26MB/17MB-20MB-22MB over 6)
+        (Cached): 21% (23MB-25MB-27MB/19MB-20MB-24MB over 18)
+  * com.android.dlna.service / u0a44 / v1:
+           TOTAL: 12% (5.0MB-9.6MB-18MB/3.9MB-8.4MB-16MB over 26)
+          Imp Fg: 3.3% (5.0MB-12MB-18MB/3.9MB-10MB-16MB over 7)
+         Service: 8.8% (7.2MB-8.8MB-12MB/5.9MB-7.6MB-11MB over 19)
+        (Cached): 0.37% (4.0MB-5.7MB-7.5MB/3.1MB-4.6MB-6.2MB over 4)
+  * com.google.android.googlequicksearchbox:search / u0a24 / v300407086:
+           TOTAL: 6.9% (49MB-55MB-58MB/41MB-46MB-49MB over 8)
+             Top: 0.01%
+         Service: 6.9% (49MB-55MB-58MB/41MB-46MB-49MB over 8)
+        (Cached): 17% (9.9MB-10MB-11MB/7.1MB-7.4MB-8.9MB over 16)
+  * com.oppo.ota / u0a70 / v835:
+           TOTAL: 6.5% (3.8MB-5.0MB-5.6MB/2.9MB-4.0MB-4.6MB over 6)
+         Service: 6.5% (3.8MB-5.0MB-5.6MB/2.9MB-4.0MB-4.6MB over 6)
+        Receiver: 0.01%
+        (Cached): 7.0% (3.2MB-3.2MB-3.5MB/2.5MB-2.6MB-2.7MB over 5)
+  * com.android.email / u0a8 / v500549:
+           TOTAL: 6.4% (13MB-15MB-18MB/11MB-13MB-16MB over 8)
+         Service: 6.4% (13MB-15MB-18MB/11MB-13MB-16MB over 8)
+        (Cached): 10% (12MB-14MB-21MB/11MB-13MB-19MB over 14)
+  * com.qualcomm.display / 1000 / v1:
+           TOTAL: 6.3% (2.6MB-2.7MB-2.7MB/2.0MB-2.0MB-2.0MB over 7)
+         Service: 6.3% (2.6MB-2.7MB-2.7MB/2.0MB-2.0MB-2.0MB over 7)
+  * com.qualcomm.qti.modemtestmode / 1000 / v22:
+           TOTAL: 6.3% (2.9MB-3.1MB-3.2MB/2.0MB-2.1MB-2.2MB over 7)
+         Service: 6.3% (2.9MB-3.1MB-3.2MB/2.0MB-2.1MB-2.2MB over 7)
+  * com.google.android.gms / u0a10 / v7571440:
+           TOTAL: 1.00% (19MB-19MB-19MB/14MB-14MB-14MB over 1)
+          Imp Fg: 0.16%
+          Imp Bg: 0.04%
+         Service: 0.80% (19MB-19MB-19MB/14MB-14MB-14MB over 1)
+        (Cached): 99% (15MB-25MB-34MB/11MB-19MB-27MB over 89)
+  * com.realtek.uartthrough / u0a119 / v1:
+           TOTAL: 0.72% (37MB-54MB-65MB/28MB-45MB-57MB over 5)
+             Top: 0.72% (37MB-54MB-65MB/28MB-45MB-57MB over 5)
+  * com.android.defcontainer / u0a5 / v1:
+           TOTAL: 0.67% (2.5MB-2.6MB-2.8MB/1.8MB-1.9MB-2.1MB over 5)
+             Top: 0.57% (2.5MB-2.6MB-2.8MB/1.8MB-1.9MB-2.1MB over 5)
+          Imp Fg: 0.10%
+        (Cached): 48% (2.5MB-2.9MB-3.1MB/1.8MB-1.9MB-2.1MB over 27)
+  * com.oppo.gesture / 1000 / v10100:
+           TOTAL: 0.21%
+         Service: 0.20%
+  * com.google.android.gms.wearable / u0a10 / v7571440:
+           TOTAL: 0.13%
+          Imp Fg: 0.10%
+          Imp Bg: 0.03%
+        (Cached): 53% (4.8MB-5.4MB-5.7MB/3.0MB-3.1MB-3.3MB over 31)
+  * com.nearme.themespacelib / 1000 / v26:
+           TOTAL: 0.06%
+      Service Rs: 0.06%
+  * com.google.android.apps.photos / u0a94 / v30568:
+           TOTAL: 0.05%
+         Service: 0.04%
+        (Cached): 15% (9.8MB-11MB-12MB/8.4MB-9.7MB-10MB over 24)
+  * com.android.packageinstaller / u0a88 / v0:
+           TOTAL: 0.03% (10MB-10MB-10MB/7.9MB-7.9MB-7.9MB over 1)
+             Top: 0.03% (10MB-10MB-10MB/7.9MB-7.9MB-7.9MB over 1)
+        (Cached): 5.6% (9.1MB-9.5MB-10MB/6.5MB-6.8MB-7.4MB over 3)
+  * com.google.android.apps.docs / u0a46 / v51831730:
+           TOTAL: 0.03%
+         Service: 0.03%
+        (Cached): 7.7% (16MB-16MB-16MB/14MB-14MB-14MB over 5)
+  * com.oppo.datadialog / u0a74 / v1:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 93% (2.4MB-3.9MB-6.9MB/1.8MB-3.0MB-6.1MB over 52)
+  * com.google.android.music:main / u0a65 / v1854:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        (Cached): 13% (15MB-16MB-19MB/13MB-14MB-17MB over 16)
+  * android.process.contacts / u0a4 / v0:
+           TOTAL: 0.02%
+         Service: 0.02%
+        (Cached): 5.2% (5.7MB-6.8MB-8.2MB/4.2MB-5.0MB-5.8MB over 4)
+  * com.android.printspooler / u0a97 / v1:
+           TOTAL: 0.02%
+          Imp Fg: 0.02%
+        (Cached): 0.02%
+  * com.android.vending / u0a19 / v80351200:
+           TOTAL: 0.01%
+         Service: 0.01%
+        (Cached): 11% (14MB-14MB-15MB/12MB-12MB-13MB over 7)
+  * com.google.android.apps.magazines / u0a68 / v2015040712:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 25% (20MB-24MB-27MB/15MB-22MB-25MB over 20)
+  * com.google.android.apps.plus / u0a96 / v413986641:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 23% (10MB-12MB-14MB/8.1MB-11MB-12MB over 22)
+  * com.google.android.youtube / u0a109 / v101855130:
+           TOTAL: 0.01%
+        (Cached): 9.4% (23MB-26MB-27MB/20MB-22MB-24MB over 9)
+  * com.google.android.talk / u0a55 / v22401362:
+           TOTAL: 0.01%
+        (Cached): 78% (17MB-19MB-20MB/15MB-16MB-17MB over 49)
+  * com.google.android.keep / u0a60 / v3120400:
+           TOTAL: 0.01%
+        (Cached): 16% (8.1MB-8.4MB-8.6MB/7.2MB-7.3MB-7.3MB over 9)
+  * com.google.android.gms:car / u0a10 / v7571440:
+           TOTAL: 0.01%
+        (Cached): 3.6% (7.1MB-7.1MB-7.1MB/4.8MB-4.8MB-4.8MB over 3)
+  * com.google.android.apps.maps / u0a64 / v909010224:
+        (Cached): 0.05%
+  * com.google.android.partnersetup / u0a13 / v22:
+        (Cached): 24% (2.6MB-3.1MB-3.2MB/2.0MB-2.1MB-2.4MB over 22)
+  * com.oppo.safe:apk_scan / 1000 / v1:
+  * com.google.android.gm / u0a50 / v52000999:
+        (Cached): 0.76% (11MB-11MB-11MB/9.4MB-9.4MB-9.4MB over 1)
+  * com.android.mms / u0a15 / v10107:
+        (Cached): 15% (5.5MB-5.5MB-5.5MB/3.5MB-3.5MB-3.5MB over 6)
+  * com.android.chrome / u0a37 / v52357093:
+        (Cached): 12% (6.1MB-6.2MB-6.4MB/5.3MB-5.4MB-5.5MB over 14)
+  * com.nearme.themespace / u0a59 / v252:
+        (Cached): 13% (4.4MB-5.1MB-7.8MB/3.2MB-3.7MB-5.9MB over 12)
+  * android.process.blacklist / u0a30 / v0:
+        (Cached): 11% (5.6MB-5.9MB-6.7MB/4.5MB-4.7MB-5.3MB over 9)
+  * com.android.providers.calendar / u0a2 / v0:
+        (Cached): 25% (4.2MB-4.8MB-4.9MB/3.3MB-3.5MB-3.5MB over 21)
+  * com.oppo.backuprestore / u0a28 / v1:
+  * com.oppo.holidaymode / u0a56 / v1:
+        (Cached): 0.01%
+  * com.android.calendar / u0a34 / v21:
+        (Cached): 7.4% (4.9MB-4.9MB-4.9MB/3.0MB-3.0MB-3.0MB over 7)
+  * com.android.engineeringmode / 1000 / v0:
+  * com.oppo.oppologkit / 1000 / v1:
+  * com.android.cellbroadcastreceiver / u0a3 / v0:
+        (Cached): 0.76% (3.1MB-3.1MB-3.1MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.google.android.googlequicksearchbox / u0a24 / v300407086:
+        (Cached): 37% (6.4MB-6.6MB-6.7MB/3.7MB-3.7MB-3.7MB over 17)
+  * com.oppo.leather / 1000 / v1:
+  * com.android.keychain / 1000 / v0:
+        (Cached): 5.3% (2.7MB-2.7MB-2.8MB/2.0MB-2.0MB-2.1MB over 4)
+  * com.android.sales / u0a101 / v6:
+        (Cached): 13% (2.4MB-2.6MB-2.7MB/1.8MB-1.9MB-2.0MB over 12)
+  * com.qualcomm.timeservice / 1000 / v22:
+        (Cached): 15% (2.5MB-2.6MB-2.6MB/1.8MB-1.8MB-1.8MB over 6)
+  * com.nearme.ocloud / u0a71 / v29:
+  * oppo.multimedia.soundrecorder / u0a67 / v1:
+  * com.android.documentsui / u0a45 / v0:
+        (Cached): 0.75% (4.2MB-4.2MB-4.2MB/3.4MB-3.4MB-3.4MB over 1)
+  * com.oppo.vistormode / 1000 / v1:
+        (Cached): 10% (3.1MB-3.2MB-3.3MB/2.4MB-2.5MB-2.5MB over 6)
+  * com.oppo.wifidirect / u0a108 / v22:
+        (Cached): 0.92% (3.1MB-3.1MB-3.1MB/2.4MB-2.4MB-2.4MB over 3)
+  * com.android.managedprovisioning / u0a63 / v1:
+  * com.google.android.configupdater / u0a42 / v22:
+        (Cached): 0.03%
+  * com.oppo.wallpaper / 1000 / v1:
+  * com.oppo.purebackground / 1000 / v1:
+        (Cached): 7.7% (2.4MB-2.5MB-2.7MB/1.9MB-1.9MB-2.1MB over 5)
+  * com.mediatek.omacp / u0a16 / v0:
+        (Cached): 0.03%
+  * com.google.android.apps.cloudprint / u0a39 / v98:
+        (Cached): 4.5% (4.5MB-4.5MB-4.6MB/3.9MB-3.9MB-4.0MB over 3)
+  * com.oppo.oppomemoryclear / u0a80 / v1:
+        (Cached): 0.02%
+  * com.oppo.camera / u0a27 / v40024:
+        (Cached): 2.2% (3.8MB-4.1MB-4.3MB/2.6MB-2.7MB-2.7MB over 5)
+  * com.google.android.onetimeinitializer / u0a12 / v22:
+        (Cached): 0.02%
+  * com.oppo.flashlight / u0a76 / v2:
+  * com.qualcomm.telephony / 1000 / v22:
+        (Cached): 0.02%
+  * com.qualcomm.shutdownlistner / u0a111 / v22:
+  * com.qualcomm.telephony / 1001 / v1:
+        (Cached): 0.02%
+  * com.android.server.telecom:ui / 1000 / v22:
+        (Cached): 2.5% (2.6MB-2.6MB-2.6MB/1.8MB-1.8MB-1.8MB over 1)
+
+Run time Stats:
+  SOff/Norm: +2h56m16s64ms
+       Mod : +11h31m22s977ms
+       Low : +37m39s163ms
+       Crit: +10s951ms
+  SOn /Norm: +5h17m38s914ms
+       Mod : +1m50s976ms
+      TOTAL: +20h24m59s45ms
+
+Memory usage:
+  Kernel : 203MB (87 samples)
+  Native : 128MB (87 samples)
+  Persist: 241MB (1262 samples)
+  Top    : 53MB (901 samples)
+  ImpFg  : 144MB (2870 samples)
+  ImpBg  : 75MB (666 samples)
+  Service: 53MB (2775 samples)
+  Receivr: 17KB (2759 samples)
+  Home   : 13MB (88 samples)
+  LastAct: 12MB (65 samples)
+  CchAct : 8.2MB (40 samples)
+  CchCAct: 22KB (1 samples)
+  CchEmty: 94MB (1326 samples)
+  Cached : 1.5GB (87 samples)
+  Free   : 212MB (87 samples)
+  TOTAL  : 2.7GB
+  ServRst: 6.3KB (1924 samples)
+
+          Start time: 2015-11-18 23:23:48
+  Total elapsed time: +21h50m31s45ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+  * com.coloros.appmanager / 1000 / v1:
+           TOTAL: 100% (5.4MB-5.8MB-6.0MB/4.6MB-5.0MB-5.3MB over 20)
+      Persistent: 100% (5.4MB-5.8MB-6.0MB/4.6MB-5.0MB-5.3MB over 20)
+  * com.android.smspush / u0a105 / v22:
+           TOTAL: 100% (2.6MB-2.7MB-2.8MB/2.0MB-2.0MB-2.0MB over 20)
+          Imp Fg: 100% (2.6MB-2.7MB-2.8MB/2.0MB-2.0MB-2.0MB over 20)
+  * com.android.systemui / 1000 / v0:
+           TOTAL: 100% (43MB-47MB-56MB/38MB-41MB-51MB over 20)
+      Persistent: 100% (43MB-47MB-56MB/38MB-41MB-51MB over 20)
+  * android.process.acore / u0a4 / v0:
+           TOTAL: 100% (11MB-11MB-11MB/9.0MB-9.0MB-9.1MB over 20)
+          Imp Fg: 100% (11MB-11MB-11MB/9.0MB-9.0MB-9.1MB over 20)
+  * android.process.safer / 1000 / v1:
+           TOTAL: 100% (5.8MB-7.0MB-10MB/5.0MB-6.0MB-9.6MB over 20)
+          Imp Fg: 100% (5.8MB-7.0MB-10MB/5.0MB-6.0MB-9.6MB over 20)
+  * system / 1000 / v22:
+           TOTAL: 100% (95MB-115MB-131MB/87MB-107MB-123MB over 20)
+      Persistent: 100% (95MB-115MB-131MB/87MB-107MB-123MB over 20)
+  * com.google.process.gapps / u0a10 / v22:
+           TOTAL: 100% (22MB-23MB-24MB/16MB-17MB-18MB over 20)
+          Imp Fg: 100% (22MB-23MB-24MB/16MB-17MB-18MB over 20)
+  * android.process.media / u0a7 / v703:
+           TOTAL: 100% (9.3MB-9.8MB-10MB/6.7MB-6.9MB-7.1MB over 18)
+          Imp Fg: 0.01%
+         Service: 100% (9.3MB-9.8MB-10MB/6.7MB-6.9MB-7.1MB over 18)
+  * com.quicinc.cne.CNEService / 1000 / v22:
+           TOTAL: 100% (5.6MB-10MB-13MB/4.8MB-9.4MB-12MB over 20)
+      Persistent: 100% (5.6MB-10MB-13MB/4.8MB-9.4MB-12MB over 20)
+  * com.oppo.usbselection / 1000 / v2:
+           TOTAL: 100% (4.0MB-4.3MB-4.4MB/3.2MB-3.4MB-3.7MB over 15)
+         Service: 100% (4.0MB-4.3MB-4.4MB/3.2MB-3.4MB-3.7MB over 15)
+  * com.oppo.notification.center / 1000 / v1:
+           TOTAL: 100% (3.0MB-3.1MB-3.3MB/2.3MB-2.3MB-2.4MB over 20)
+          Imp Fg: 100% (3.0MB-3.1MB-3.3MB/2.3MB-2.3MB-2.4MB over 20)
+  * com.oppo.service.account / u0a102 / v110:
+           TOTAL: 100% (3.1MB-3.2MB-3.3MB/2.4MB-2.5MB-2.5MB over 20)
+      Persistent: 100% (3.1MB-3.2MB-3.3MB/2.4MB-2.5MB-2.5MB over 20)
+  * com.android.dialer / u0a6 / v0:
+           TOTAL: 100% (22MB-23MB-23MB/16MB-16MB-16MB over 20)
+          Imp Fg: 100% (22MB-23MB-23MB/16MB-16MB-16MB over 20)
+  * com.nuance.swype.oppo / u0a86 / v1081300:
+           TOTAL: 100% (46MB-46MB-47MB/40MB-42MB-42MB over 20)
+          Imp Bg: 100% (46MB-46MB-47MB/40MB-42MB-42MB over 20)
+  * com.oppo.gestureservice / u0a78 / v1:
+           TOTAL: 100% (3.1MB-3.2MB-3.4MB/2.5MB-2.5MB-2.5MB over 20)
+      Persistent: 100% (3.1MB-3.2MB-3.4MB/2.5MB-2.5MB-2.5MB over 20)
+  * com.oppo.exserviceui / 1000 / v1:
+           TOTAL: 100% (32MB-36MB-37MB/31MB-34MB-36MB over 20)
+          Imp Fg: 100% (32MB-36MB-37MB/31MB-34MB-36MB over 20)
+  * com.qualcomm.qcrilmsgtunnel / 1001 / v22:
+           TOTAL: 100% (3.0MB-3.2MB-3.3MB/2.4MB-2.4MB-2.4MB over 20)
+          Imp Fg: 100% (3.0MB-3.2MB-3.3MB/2.4MB-2.4MB-2.4MB over 20)
+  * com.oppo.activation / u0a81 / v0:
+           TOTAL: 100% (4.1MB-4.5MB-4.7MB/3.4MB-3.6MB-4.0MB over 15)
+         Service: 100% (4.1MB-4.5MB-4.7MB/3.4MB-3.6MB-4.0MB over 15)
+  * com.android.settings / 1000 / v102:
+           TOTAL: 100% (63MB-70MB-99MB/56MB-62MB-92MB over 21)
+             Top: 1.2% (92MB-96MB-99MB/84MB-89MB-92MB over 3)
+         Service: 99% (63MB-65MB-68MB/56MB-58MB-59MB over 18)
+  * com.oppo.recents / 1000 / v1:
+           TOTAL: 100% (10MB-55MB-66MB/8.5MB-52MB-63MB over 20)
+          Imp Fg: 100% (10MB-55MB-66MB/8.5MB-52MB-63MB over 20)
+  * com.coloros.oppomorningsystem / 1000 / v1:
+           TOTAL: 100% (3.0MB-3.2MB-3.4MB/2.1MB-2.3MB-2.3MB over 15)
+         Service: 100% (3.0MB-3.2MB-3.4MB/2.1MB-2.3MB-2.3MB over 15)
+  * com.google.android.googlequicksearchbox:interactor / u0a24 / v300407086:
+           TOTAL: 100% (4.7MB-5.6MB-6.1MB/2.8MB-3.9MB-4.5MB over 20)
+          Imp Fg: 100% (4.7MB-5.6MB-6.1MB/2.8MB-3.9MB-4.5MB over 20)
+  * com.qualcomm.location.XT / 1000 / v1:
+           TOTAL: 100% (3.1MB-3.3MB-3.4MB/2.4MB-2.4MB-2.4MB over 15)
+         Service: 100% (3.1MB-3.3MB-3.4MB/2.4MB-2.4MB-2.4MB over 15)
+  * com.android.phone / 1001 / v22:
+           TOTAL: 100% (20MB-24MB-28MB/18MB-21MB-26MB over 20)
+      Persistent: 100% (20MB-24MB-28MB/18MB-21MB-26MB over 20)
+  * com.google.android.gms.persistent / u0a10 / v7571440:
+           TOTAL: 100% (26MB-27MB-27MB/21MB-21MB-22MB over 20)
+          Imp Fg: 100% (26MB-27MB-27MB/21MB-21MB-22MB over 20)
+  * com.oppo.music / u0a18 / v3:
+           TOTAL: 100% (11MB-11MB-13MB/8.1MB-8.5MB-9.3MB over 21)
+          Imp Fg: 50% (11MB-12MB-13MB/8.2MB-9.0MB-9.3MB over 8)
+         Service: 50% (11MB-11MB-11MB/8.1MB-8.2MB-8.4MB over 13)
+  * android.process.TrafficMonitor / 1000 / v0:
+           TOTAL: 100% (8.8MB-9.6MB-10MB/6.2MB-7.5MB-8.6MB over 20)
+          Imp Fg: 100% (8.8MB-9.6MB-10MB/6.2MB-7.5MB-8.6MB over 20)
+  * com.oppo.alarmclock / u0a38 / v0:
+           TOTAL: 100% (4.6MB-4.8MB-5.0MB/3.1MB-3.2MB-3.3MB over 15)
+         Service: 100% (4.6MB-4.8MB-5.0MB/3.1MB-3.2MB-3.3MB over 15)
+  * com.realtek.uartthrough / u0a118 / v1:
+           TOTAL: 93% (42MB-55MB-64MB/34MB-47MB-56MB over 72)
+             Top: 93% (42MB-55MB-64MB/34MB-47MB-56MB over 72)
+      (Last Act): 0.55% (28MB-28MB-28MB/23MB-23MB-23MB over 1)
+        (Cached): 5.9%
+  * com.android.keyguard / u0a14 / v4:
+           TOTAL: 76% (6.1MB-27MB-46MB/4.9MB-22MB-38MB over 16)
+      Persistent: 76% (6.1MB-27MB-46MB/4.9MB-22MB-38MB over 16)
+  * android.process.safer.ui / 1000 / v1:
+           TOTAL: 53% (8.1MB-11MB-14MB/6.2MB-9.4MB-11MB over 8)
+         Service: 53% (8.1MB-11MB-14MB/6.2MB-9.4MB-11MB over 8)
+  * com.nearme.sync / u0a66 / v10:
+           TOTAL: 53% (5.4MB-5.6MB-5.8MB/4.7MB-4.9MB-4.9MB over 8)
+         Service: 53% (5.4MB-5.6MB-5.8MB/4.7MB-4.9MB-4.9MB over 8)
+  * com.android.dlna.service / u0a44 / v1:
+           TOTAL: 51% (7.5MB-9.7MB-18MB/6.3MB-8.5MB-16MB over 14)
+          Imp Fg: 11% (8.8MB-12MB-18MB/7.4MB-11MB-16MB over 3)
+         Service: 40% (7.5MB-9.0MB-12MB/6.3MB-7.8MB-11MB over 11)
+        (Cached): 0.08%
+  * com.oppo.weather / u0a85 / v1643:
+           TOTAL: 50% (4.9MB-5.2MB-5.5MB/3.8MB-3.9MB-4.0MB over 14)
+             Top: 6.1% (4.9MB-5.1MB-5.2MB/3.8MB-3.9MB-4.0MB over 7)
+          Imp Fg: 44% (5.2MB-5.4MB-5.5MB/3.9MB-3.9MB-3.9MB over 7)
+        Receiver: 0.01%
+          (Home): 50% (4.9MB-5.1MB-5.4MB/3.8MB-3.8MB-4.0MB over 8)
+  * com.oppo.launcher / u0a59 / v1:
+           TOTAL: 50% (60MB-75MB-96MB/51MB-65MB-83MB over 14)
+             Top: 6.1% (72MB-90MB-96MB/65MB-78MB-83MB over 7)
+          Imp Fg: 44% (60MB-60MB-60MB/51MB-52MB-52MB over 7)
+        Receiver: 0.01%
+          (Home): 50% (54MB-57MB-60MB/47MB-49MB-52MB over 9)
+  * com.google.android.googlequicksearchbox:search / u0a24 / v300407086:
+           TOTAL: 38% (51MB-56MB-58MB/41MB-46MB-49MB over 7)
+             Top: 0.02%
+         Service: 38% (51MB-56MB-58MB/41MB-46MB-49MB over 7)
+  * com.oppo.ota / u0a70 / v835:
+           TOTAL: 21% (5.5MB-5.6MB-5.6MB/4.6MB-4.6MB-4.6MB over 3)
+         Service: 21% (5.5MB-5.6MB-5.6MB/4.6MB-4.6MB-4.6MB over 3)
+        Receiver: 0.01%
+        (Cached): 26% (3.2MB-3.2MB-3.2MB/2.5MB-2.5MB-2.6MB over 3)
+  * com.google.android.gms / u0a10 / v7571440:
+           TOTAL: 0.36%
+             Top: 0.01%
+          Imp Fg: 0.13%
+         Service: 0.22%
+        (Cached): 100% (28MB-29MB-30MB/21MB-23MB-24MB over 21)
+  * com.google.android.gms.wearable / u0a10 / v7571440:
+           TOTAL: 0.13%
+          Imp Fg: 0.12%
+        (Cached): 32% (4.9MB-5.1MB-5.2MB/3.0MB-3.1MB-3.2MB over 6)
+  * com.nearme.themespacelib / 1000 / v26:
+           TOTAL: 0.09%
+         Service: 0.01%
+      Service Rs: 0.08%
+  * com.google.android.apps.docs / u0a46 / v51831730:
+           TOTAL: 0.07%
+         Service: 0.06%
+        Receiver: 0.01%
+        (Cached): 26% (16MB-16MB-16MB/14MB-14MB-14MB over 3)
+  * com.android.defcontainer / u0a5 / v1:
+           TOTAL: 0.07%
+          Imp Fg: 0.07%
+        (Cached): 40% (2.7MB-2.7MB-2.7MB/2.0MB-2.0MB-2.0MB over 3)
+  * com.android.email / u0a8 / v500549:
+           TOTAL: 0.06%
+         Service: 0.05%
+        Receiver: 0.01%
+        (Cached): 22% (12MB-13MB-15MB/11MB-12MB-13MB over 4)
+  * com.android.vending / u0a19 / v80351200:
+           TOTAL: 0.03%
+         Service: 0.02%
+        (Cached): 32% (14MB-14MB-14MB/12MB-12MB-12MB over 4)
+  * com.google.android.music:main / u0a65 / v1854:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Receiver: 0.01%
+        (Cached): 22% (15MB-15MB-16MB/13MB-14MB-14MB over 4)
+  * com.google.android.apps.plus / u0a96 / v413986641:
+           TOTAL: 0.01%
+        (Cached): 53% (11MB-13MB-14MB/9.6MB-11MB-12MB over 8)
+  * com.oppo.datadialog / u0a74 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 61% (2.5MB-2.7MB-3.8MB/1.8MB-2.0MB-3.1MB over 10)
+  * com.google.android.apps.photos / u0a94 / v30568:
+           TOTAL: 0.01%
+        (Cached): 39% (9.8MB-11MB-12MB/8.4MB-9.6MB-10MB over 7)
+  * com.google.android.apps.magazines / u0a68 / v2015040712:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 100% (20MB-24MB-27MB/15MB-21MB-25MB over 14)
+  * com.google.android.talk / u0a55 / v22401362:
+           TOTAL: 0.01%
+        (Cached): 88% (17MB-19MB-20MB/15MB-17MB-17MB over 13)
+  * com.nearme.themespace / u0a59 / v252:
+        (Cached): 27% (4.5MB-4.7MB-4.8MB/3.2MB-3.4MB-3.5MB over 6)
+  * com.google.android.keep / u0a60 / v3120400:
+        (Cached): 5.3% (8.1MB-8.2MB-8.2MB/7.2MB-7.2MB-7.2MB over 3)
+  * com.google.android.gms:car / u0a10 / v7571440:
+        (Cached): 2.0% (7.1MB-7.1MB-7.1MB/4.8MB-4.8MB-4.8MB over 1)
+  * com.android.chrome / u0a37 / v52357093:
+        (Cached): 27% (6.1MB-6.2MB-6.4MB/5.4MB-5.5MB-5.5MB over 6)
+  * com.google.android.apps.cloudprint / u0a39 / v98:
+        (Cached): 27% (4.5MB-4.5MB-4.6MB/3.9MB-3.9MB-4.0MB over 3)
+  * com.android.keychain / 1000 / v0:
+        (Cached): 26% (2.7MB-2.7MB-2.8MB/2.0MB-2.1MB-2.1MB over 3)
+  * com.google.android.partnersetup / u0a13 / v22:
+        (Cached): 33% (2.8MB-2.9MB-3.1MB/2.0MB-2.2MB-2.4MB over 6)
+  * android.process.blacklist / u0a30 / v0:
+        (Cached): 22% (5.8MB-5.8MB-5.8MB/4.5MB-4.5MB-4.6MB over 4)
+  * com.android.sales / u0a101 / v6:
+        (Cached): 27% (2.4MB-2.5MB-2.7MB/1.9MB-1.9MB-2.0MB over 6)
+  * com.oppo.wifidirect / u0a108 / v22:
+        (Cached): 5.3% (3.1MB-3.1MB-3.1MB/2.4MB-2.4MB-2.4MB over 3)
+  * com.oppo.purebackground / 1000 / v1:
+        (Cached): 26% (2.4MB-2.5MB-2.5MB/1.9MB-1.9MB-2.0MB over 3)
+  * com.oppo.camera / u0a27 / v40024:
+        (Cached): 13% (3.9MB-4.2MB-4.3MB/2.6MB-2.7MB-2.7MB over 4)
+  * android.process.contacts / u0a4 / v0:
+        (Cached): 26% (5.7MB-6.6MB-8.2MB/4.2MB-4.9MB-5.8MB over 3)
+  * com.oppo.vistormode / 1000 / v1:
+        (Cached): 26% (3.1MB-3.1MB-3.2MB/2.4MB-2.5MB-2.5MB over 3)
+  * com.rtk.simpleconfig_wizard / u0a115 / v1:
+        (Cached): 2.5%
+  * com.oppo.filemanager / u0a47 / v0:
+        (Cached): 100% (23MB-24MB-26MB/19MB-20MB-21MB over 13)
+
+Run time Stats:
+  SOff/Norm: +1h31m45s711ms
+  SOn /Norm: +1h55m21s812ms
+       Mod : +52s452ms
+      TOTAL: +3h27m59s975ms
+
+Memory usage:
+  Kernel : 220MB (32 samples)
+  Native : 129MB (32 samples)
+  Persist: 233MB (156 samples)
+  Top    : 59MB (123 samples)
+  ImpFg  : 242MB (350 samples)
+  ImpBg  : 46MB (38 samples)
+  Service: 135MB (356 samples)
+  Receivr: 15KB (282 samples)
+  Home   : 31MB (42 samples)
+  LastAct: 159KB (1 samples)
+  CchAct : 24MB (13 samples)
+  CchEmty: 117MB (278 samples)
+  Cached : 1.2GB (32 samples)
+  Free   : 216MB (32 samples)
+  TOTAL  : 2.6GB
+  ServRst: 393 (95 samples)
+
+          Start time: 2015-11-19 17:47:00
+  Total elapsed time: +3h27m59s975ms (partial) libart.so

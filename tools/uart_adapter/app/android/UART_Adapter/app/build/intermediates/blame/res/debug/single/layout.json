@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popmenu.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\layout_popmenu.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_serialport.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\setting_serialport.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\layout_item.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_setting.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\layout_item_setting.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_group.xml",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\layout\\setting_group.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_index01.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\bg_index01.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ameba_group.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\ameba_group.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ungroup.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\ungroup.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\device.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\device.png"
+    },
+    {
+        "merged": "E:\\UART_Adapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_index1.png",
+        "source": "E:\\UART_Adapter\\app\\src\\main\\res\\drawable\\bg_index1.png"
+    }
+]
